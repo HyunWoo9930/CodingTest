@@ -1,7 +1,6 @@
-package CodingTest.KaKao;
+package CodingTest.Level1.KaKao;
 
 import java.util.ArrayList;
-import java.util.Arrays;
 import java.util.List;
 
 public class CodingTest_Crane {

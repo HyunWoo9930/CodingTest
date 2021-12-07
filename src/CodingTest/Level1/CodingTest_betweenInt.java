@@ -1,4 +1,4 @@
-package CodingTest;
+package CodingTest.Level1;
 
 import java.util.ArrayList;
 import java.util.List;

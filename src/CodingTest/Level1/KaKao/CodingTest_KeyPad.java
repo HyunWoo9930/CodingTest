@@ -1,4 +1,4 @@
-package CodingTest.KaKao;
+package CodingTest.Level1.KaKao;
 
 import java.util.ArrayList;
 import java.util.List;
