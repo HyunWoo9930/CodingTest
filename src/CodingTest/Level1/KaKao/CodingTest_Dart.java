@@ -9,6 +9,7 @@ public class CodingTest_Dart {
       String[] splitDartResults = DartResults[i].split("\\w{2}");
       for(int j = 0;j<splitDartResults.length;j++) {
         System.out.println(splitDartResults[i]);
+
       }
     }
 
