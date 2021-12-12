@@ -1,4 +1,4 @@
-package CodingTest.Level1.KaKao;
+package CodingTest.Level1.KaKao.SolvedYet;
 
 import java.util.ArrayList;
 import java.util.List;

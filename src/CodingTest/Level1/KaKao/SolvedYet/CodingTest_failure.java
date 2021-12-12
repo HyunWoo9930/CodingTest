@@ -1,4 +1,4 @@
-package CodingTest.Level1.SolveYet;
+package CodingTest.Level1.KaKao.SolvedYet;
 //TODO
 public class CodingTest_failure {
     public static void main(String[] ar) {
@@ -15,6 +15,5 @@ public class CodingTest_failure {
             }System.out.println(count);
             count = 0;
         }
-
     }
 }

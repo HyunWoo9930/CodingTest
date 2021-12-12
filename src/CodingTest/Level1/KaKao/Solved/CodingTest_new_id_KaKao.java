@@ -1,4 +1,4 @@
-package CodingTest.Level1.KaKao;
+package CodingTest.Level1.KaKao.Solved;
 
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;

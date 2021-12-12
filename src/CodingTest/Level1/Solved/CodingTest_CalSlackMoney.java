@@ -1,4 +1,4 @@
-package CodingTest.Level1.SolveYet;
+package CodingTest.Level1.Solved;
 
 public class CodingTest_CalSlackMoney {
   public static void main(String[] ar) {

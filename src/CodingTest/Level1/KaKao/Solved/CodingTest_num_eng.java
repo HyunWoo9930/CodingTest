@@ -1,4 +1,4 @@
-package CodingTest.Level1.KaKao;
+package CodingTest.Level1.KaKao.Solved;
 
 public class CodingTest_num_eng {
 
