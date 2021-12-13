@@ -2,9 +2,9 @@ package CodingTest.Level1.KaKao.Solved;
 
 public class CodingTest_SecretMap {
     public static void main(String[] args) {
-        int n = 6;
-        int[] arr1 = {46, 33, 33 ,22, 31, 50};
-        int[] arr2 = {27 ,56, 19, 14, 14, 10};
+        int n = 5;
+        int[] arr1 = {9, 20, 28, 18, 11};
+        int[] arr2 = {30, 1, 21, 17, 28};
         String[] answer = new String[n];
         StringBuilder[] arr1Builder = tenTotwo(arr1,n);
         System.out.println();
@@ -13,7 +13,6 @@ public class CodingTest_SecretMap {
         for(int i = 0;i<n;i++) {
             String tmp = "";
             for(int j = 0;j<n;j++) {
-
                 if (arr1Builder[i].charAt(j) == '1' || arr2Builder[i].charAt(j) == '1'){
                     tmp += "#";
                 }else {
@@ -43,6 +42,7 @@ public class CodingTest_SecretMap {
             }
             a = 0;
             arr1Totwo[i] = tenTotwo;
+            System.out.println(arr1Totwo[i]);
         }
         return arr1Totwo;
     }
