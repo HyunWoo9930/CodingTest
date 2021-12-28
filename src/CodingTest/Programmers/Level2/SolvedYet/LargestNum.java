@@ -15,19 +15,9 @@ public class LargestNum {
 
   public static int Pick(String num,int k) {
     int answer = 0;
-    int temp = 0;
-    int[] test = new int[k];
-    Random rand = new Random();
-    for(int i = 0;i<k;i++) test[i] = i;
-    for(int i = 0;i<k;i++) {
-      int des = rand.nextInt(k);
-      temp = test[i];
-      test[i] = test[des];
-      test[des] = temp;
-    }
-    for(int i = 0;i<test.length;i++) {
-      System.out.println("" + test[i]);
-    }
+    String[] numArray = num.split("");
+
+
 
 
 
