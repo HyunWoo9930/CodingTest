@@ -6,7 +6,7 @@ import java.util.regex.Pattern;
 public class RightBlank {
 
   public static void main(String[] args) {
-    String s = "(())()";
+    String s = "";
     Pattern pattern = Pattern.compile("(\\(\\))");
     Matcher matcher = pattern.matcher(s);
     while (matcher.find()) {

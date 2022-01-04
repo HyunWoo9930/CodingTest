@@ -1,15 +1,29 @@
 package CodingTest.Programmers.Level2.SolvedYet;
 
+import java.util.Arrays;
+
 public class Nmin {
 
   public static void main(String[] args) {
     int[] arr = {2,6,8,14};
-    for(int i = 0;i<arr.length;i++) {
-      for(int j = i+1;j<arr.length;j++) {
-        System.out.println("arr[i] = " + arr[i]);
-        System.out.println("arr[j] = " + arr[j]);
+    Arrays.sort(arr);
+    int a = 0;
+    for (int i = 1; i <= arr[0]; i++) {
+      for (int j : arr) {
+        if (j % i != 0) {
+          a = 1;
+          break;
+        }
+        a = i;
       }
     }
+    int answer = 1;
+    for(int i = 0;i<arr.length;i++) {
+      arr[i] /= a;
+      answer *= arr[i];
+    }
+    answer *= a;
+    System.out.println("answer = " + answer);
   }
 
 }
