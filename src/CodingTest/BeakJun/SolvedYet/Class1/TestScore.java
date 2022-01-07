@@ -1,4 +1,4 @@
-package CodingTest.BeakJun.SolvedYet;
+package CodingTest.BeakJun.SolvedYet.Class1;
 
 import java.util.Scanner;
 
