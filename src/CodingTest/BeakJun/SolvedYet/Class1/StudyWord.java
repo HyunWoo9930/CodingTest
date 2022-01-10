@@ -1,13 +1,7 @@
 package CodingTest.BeakJun.SolvedYet.Class1;
 
-import java.util.ArrayList;
 import java.util.Arrays;
-import java.util.HashMap;
-import java.util.LinkedList;
 import java.util.List;
-import java.util.Locale;
-import java.util.Map;
-import java.util.Map.Entry;
 import java.util.Scanner;
 import java.util.stream.Collectors;
 
@@ -18,18 +12,29 @@ public class StudyWord {
     String a = sc.nextLine();
     a = a.toLowerCase();
     List<String> c = Arrays.stream(a.split("")).distinct().collect(Collectors.toList());
-    System.out.println(c);
-    Map map = new HashMap();
     int max = 0;
+    int[] numArr = new int[c.size()];
     for(int i = 0;i<c.size();i++) {
-      map.put(c.get(i),(countChar(a,c.get(i))));
+      numArr[i] = countChar(a,c.get(i));
+      max = Math.max(max,numArr[i]);
     }
-    List<Map.Entry<String, Integer>> entryList = new LinkedList<>(map.entrySet());
-    entryList.sort(Entry.comparingByValue());
-    System.out.println(entryList);
+    int count  = 0;
+    for(int i = 0;i<numArr.length;i++) {
+      if(max == numArr[i]) count++;
+    }
+
+    if(count == 1) {
+      for(int i = 0;i<numArr.length;i++) {
+        if (max == numArr[i]) {
+          System.out.println(c.get(i).toUpperCase());
+        }
+      }
+    }
+    else if(count > 1) {
+      System.out.println("?");
+    }
+
   }
-
-
 
   public static int countChar(String str, String ch) {
     return str.length() - str.replace((ch), "").length();
