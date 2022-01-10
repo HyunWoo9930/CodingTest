@@ -1,0 +1,18 @@
+package CodingTest.BeakJun.Solved.Bronze;
+
+public class CallCenter {
+
+  public static void main(String[] args) {
+    System.out.println("     /~\\\n"
+        + "    ( oo|\n"
+        + "    _\\=/_\n"
+        + "   /  _  \\\n"
+        + "  //|/.\\|\\\\\n"
+        + " ||  \\ /  ||\n"
+        + "============\n"
+        + "|          |\n"
+        + "|          |\n"
+        + "|          |");
+  }
+
+}
