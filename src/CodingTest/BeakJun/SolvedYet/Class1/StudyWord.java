@@ -18,20 +18,8 @@ public class StudyWord {
       numArr[i] = countChar(a,c.get(i));
       max = Math.max(max,numArr[i]);
     }
-    int count  = 0;
-    for(int i = 0;i<numArr.length;i++) {
-      if(max == numArr[i]) count++;
-    }
+    for(int i = 0;i<c.size();i++) {
 
-    if(count == 1) {
-      for(int i = 0;i<numArr.length;i++) {
-        if (max == numArr[i]) {
-          System.out.println(c.get(i).toUpperCase());
-        }
-      }
-    }
-    else if(count > 1) {
-      System.out.println("?");
     }
 
   }
