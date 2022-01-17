@@ -8,13 +8,11 @@ public class CountingStar_10 {
 
   public static void main(String[] args) throws IOException {
     BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
-//    int n = Integer.parseInt(br.readLine());
+    int n = Integer.parseInt(br.readLine());
 
-    String pattern = "";
-    String star = "*";
+    for (int i = n; i > 0; i--) {
 
-
-
+    }
 
 
   }
