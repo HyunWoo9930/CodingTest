@@ -12,6 +12,8 @@ public class 이진수팔진수 {
     BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
     BufferedWriter bw = new BufferedWriter(new OutputStreamWriter(System.out));
 
+
+
     String a = br.readLine();
     StringBuilder ans = new StringBuilder();
     for (int i = a.length() - 1; i >= 0; i -= 3) {
