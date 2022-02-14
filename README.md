@@ -225,20 +225,21 @@
 <details>
 <summary>Level 2</summary>
 
-|    문제 이름    |   출처   |  언어  |
-| :-------------: | :------: |:----:|
-|  전화번호 목록  |   해시   | Java |
-|    가장 큰수    |   정렬   | Java |
-|    주식가격     | 스택/큐  | Java |
-|   숫자의 표현   | 연습문제 | Java |
-| 최댓값과 최솟값 | 연습문제 | Java |
-|   피보나치 수   | 연습문제 | Java |
-|   행렬의 곱셈   | 연습문제 | Java |
-| 주차 요금 계산|2022 KAKAO BLIND RECRUITMENT| Java |
- | JadenCase 문자열 만들기|연습문제| Java |
- | 최솟값 만들기|연습문제| Java |
- | 땅따먹기|연습문제|Java|
- | 영어 끝말잇기|Summer/Winter Coding(~2018)|Java|
+|       문제 이름       |              출처              |  언어  |
+|:-----------------:|:----------------------------:|:----:|
+|      전화번호 목록      |              해시              | Java |
+|       가장 큰수       |              정렬              | Java |
+|       주식가격        |             스택/큐             | Java |
+|      숫자의 표현       |             연습문제             | Java |
+|     최댓값과 최솟값      |             연습문제             | Java |
+|      피보나치 수       |             연습문제             | Java |
+|      행렬의 곱셈       |             연습문제             | Java |
+|     주차 요금 계산      | 2022 KAKAO BLIND RECRUITMENT | Java |
+ | JadenCase 문자열 만들기 |             연습문제             | Java |
+ |      최솟값 만들기      |             연습문제             | Java |
+ |       땅따먹기        |             연습문제             | Java |
+ |      영어 끝말잇기      | Summer/Winter Coding(~2018)  | Java |
+|     n개의 최소공배수     |             연습문제             | Java |
 
 
 </details>
