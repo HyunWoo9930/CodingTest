@@ -1,6 +1,6 @@
 # CodingTest
 
-[UPDATE] 2022.02.17 
+[UPDATE] 2022.02.18 
 
 [Solved.ac](https://solved.ac/profile/ohw9930)
 
@@ -130,6 +130,10 @@
 | 4673  |    셀프 넘버     | Silver 5 | Java |
 | 11653 |    소인수 분해    | Silver 5 | Java |
 | 1158  |   요세푸스 문제    | Silver 5 | Java |
+| 10989 |   수 정렬하기 3   | Silver 5 | Java |
+| 11650 |   좌표 정렬하기    | Silver 5 | Java |
+| 11651 |  좌표 정렬하기 2   | Silver 5 | Java |
+| 10814 |   나이순 정렬하기   | Silver 5 | Java |
 | 1002  |      터렛      | Silver 4 | Java |
 | 1065  |      한수      | Silver 4 | Java |
 | 1978  |    소수 찾기     | Silver 4 | Java |
