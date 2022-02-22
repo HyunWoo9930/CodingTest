@@ -10,13 +10,6 @@ public class CountingStar_10 {
     BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
     int n = Integer.parseInt(br.readLine());
 
-    for (int i = n; i > 0; i--) {
-
-    }
-
-
   }
-
-
 
 }

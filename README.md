@@ -1,6 +1,6 @@
 # CodingTest
 
-[UPDATE] 2022.02.18 
+[UPDATE] 2022.02.22 
 
 [Solved.ac](https://solved.ac/profile/ohw9930)
 
@@ -144,6 +144,9 @@
 | 11866 |  요스푸스 문제 0   | Silver 4 | Java |
 | 10773 |      제로      | Silver 4 | Java |
 | 2164  |     카드 2     | Silver 4 | Java |
+| 9012  |      괄호      | Silver 4 | Java |
+| 4949  |   균형잡힌 세상    | Silver 4 | Java |
+| 10866 |      덱       | Silver 4 | Java |
 | 17413 |   단어 뒤집기 2   | Silver 3 | Java |
 | 10799 |     쇠막대기     | Silver 3 | Java |
 | 1874  |    스택 수열     | Silver 3 | Java |
@@ -151,6 +154,10 @@
 | 9613  |    GCD 합     | Silver 3 | Java |
 | 1935  |   후위 표기식 2   | Silver 3 | Java |
 | 15649 |   N과 M(1)    | Silver 3 | Java |
+| 1463  |    1로 만들기    | Silver 3 | Java |
+| 11726 |   2xn 타일링    | Silver 3 | Java |
+| 11727 |  2xn 타일링 2   | Silver 3 | Java |
+| 1095  |  1,2,3 더하기   | Silver 3 | Java |
 | 1929  |    소수 구하기    | Silver 2 | Java |
 | 4948  |   베르트랑 공준    | Silver 2 | Java |
 | 17087 |    숨바꼭질 6    | Silver 2 | Java |
