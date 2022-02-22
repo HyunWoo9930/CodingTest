@@ -142,6 +142,8 @@
 | 1676  |  팩토리얼 0의 개수  | Silver 4 | Java |
 | 10845 |      큐       | Silver 4 | Java |
 | 11866 |  요스푸스 문제 0   | Silver 4 | Java |
+| 10773 |      제로      | Silver 4 | Java |
+| 2164  |     카드 2     | Silver 4 | Java |
 | 17413 |   단어 뒤집기 2   | Silver 3 | Java |
 | 10799 |     쇠막대기     | Silver 3 | Java |
 | 1874  |    스택 수열     | Silver 3 | Java |
