@@ -1,6 +1,6 @@
 # CodingTest
 
-[UPDATE] 2022.02.22 
+[UPDATE] 2022.02.25 
 
 [Solved.ac](https://solved.ac/profile/ohw9930)
 
@@ -158,12 +158,15 @@
 | 11726 |   2xn 타일링    | Silver 3 | Java |
 | 11727 |  2xn 타일링 2   | Silver 3 | Java |
 | 1095  |  1,2,3 더하기   | Silver 3 | Java |
+| 1003  |   피보나치 함수    | Silver 3 | Java |
 | 1929  |    소수 구하기    | Silver 2 | Java |
 | 4948  |   베르트랑 공준    | Silver 2 | Java |
 | 17087 |    숨바꼭질 6    | Silver 2 | Java |
 | 2004  |   조합 0의 개수   | Silver 2 | Java |
 | 9020  |   골드바흐의 추측   | Silver 1 | Java |
 | 6588  |   골드바흐의 추측   | Silver 1 | Java |
+| 11052 |   카드 구매하기    | Silver 1 | Java |
+| 16194 |  카드 구매하기 2   | Silver 1 | Java |
 </details>
 <details>
 <summary>Gold</summary>
