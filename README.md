@@ -1,6 +1,6 @@
 # CodingTest
 
-[UPDATE] 2022.02.25 
+[UPDATE] 2022.03.24
 
 [Solved.ac](https://solved.ac/profile/ohw9930)
 
@@ -115,6 +115,7 @@
 | 2869  |   달팽이는 올라가고 싶다    | Bronze 1 | Java |
 | 4344  |      평균은 넘겠지      | Bronze 1 | Java |
 | 11050 |      이항 계수 1      | Bronze 1 | Java |
+| 2750  |      수 정렬하기       | Bronze 1 | Java |
 
 </details>
 <details>
@@ -159,6 +160,7 @@
 | 11727 |  2xn 타일링 2   | Silver 3 | Java |
 | 1095  |  1,2,3 더하기   | Silver 3 | Java |
 | 1003  |   피보나치 함수    | Silver 3 | Java |
+| 2108  |     통계학      | Silver 3 | Java |
 | 1929  |    소수 구하기    | Silver 2 | Java |
 | 4948  |   베르트랑 공준    | Silver 2 | Java |
 | 17087 |    숨바꼭질 6    | Silver 2 | Java |
