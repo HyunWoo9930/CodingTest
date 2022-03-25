@@ -135,6 +135,7 @@
 | 11650 |   좌표 정렬하기    | Silver 5 | Java |
 | 11651 |  좌표 정렬하기 2   | Silver 5 | Java |
 | 10814 |   나이순 정렬하기   | Silver 5 | Java |
+| 1427  |    소트인사이드    | Silver 5 | Java |
 | 1002  |      터렛      | Silver 4 | Java |
 | 1065  |      한수      | Silver 4 | Java |
 | 1978  |    소수 찾기     | Silver 4 | Java |
