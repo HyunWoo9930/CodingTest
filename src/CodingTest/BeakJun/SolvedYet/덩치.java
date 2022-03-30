@@ -1,4 +1,4 @@
-package CodingTest.BeakJun;
+package CodingTest.BeakJun.SolvedYet;
 
 import java.io.BufferedReader;
 import java.io.IOException;
