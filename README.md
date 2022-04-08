@@ -6,6 +6,8 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ohw9930)](https://solved.ac/ohw9930/)
 
+<img src="https://ghchart.rshah.org/HyunWoo9930"/>
+
 ## 문제 푼 것 정리
 
 - BaekJun
