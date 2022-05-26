@@ -1,6 +1,6 @@
 # CodingTest
 
-[UPDATE] 2022.05.01
+[UPDATE] 2022.05.26
 
 [Solved.ac](https://solved.ac/profile/ohw9930)
 
@@ -123,58 +123,59 @@
 <details>
 <summary>Silver</summary>
 
-|  번호   |     문제이름     |    난이도    |  언어   |
-|:-----:|:------------:|:---------:|:-----:|
-| 1181  |    단어 정렬     | Silver 5  | Java  |
-| 2581  |      소수      | Silver 5  | Java  |
-| 2609  | 최대공약수와 최소공배수 | Silver 5  | Java  |
-| 2751  |   수 정렬하기 2   | Silver 5  | Java  |
-| 2941  |  크로아티아 알파벳   | Silver 5  | Java  |
-| 4673  |    셀프 넘버     | Silver 5  | Java  |
-| 11653 |    소인수 분해    | Silver 5  | Java  |
-| 1158  |   요세푸스 문제    | Silver 5  | Java  |
-| 10989 |   수 정렬하기 3   | Silver 5  | Java  |
-| 11650 |   좌표 정렬하기    | Silver 5  | Java  |
-| 11651 |  좌표 정렬하기 2   | Silver 5  | Java  |
-| 10814 |   나이순 정렬하기   | Silver 5  | Java  |
-| 1427  |    소트인사이드    | Silver 5  | Java  |
-| 1002  |      터렛      | Silver 4  | Java  |
-| 1065  |      한수      | Silver 4  | Java  |
-| 1978  |    소수 찾기     | Silver 4  | Java  |
-| 10828 |      스택      | Silver 4  | Java  |
-| 11656 |    접미사 배열    | Silver 4  | Java  |
-| 1676  |  팩토리얼 0의 개수  | Silver 4  | Java  |
-| 10845 |      큐       | Silver 4  | Java  |
-| 11866 |  요스푸스 문제 0   | Silver 4  | Java  |
-| 10773 |      제로      | Silver 4  | Java  |
-| 2164  |     카드 2     | Silver 4  | Java  |
-| 9012  |      괄호      | Silver 4  | Java  |
-| 4949  |   균형잡힌 세상    | Silver 4  | Java  |
-| 10866 |      덱       | Silver 4  | Java  |
-| 17413 |   단어 뒤집기 2   | Silver 3  | Java  |
-| 10799 |     쇠막대기     | Silver 3  | Java  |
-| 1874  |    스택 수열     | Silver 3  | Java  |
-| 1406  |     에디터      | Silver 3  | Java  |
-| 9613  |    GCD 합     | Silver 3  | Java  |
-| 1935  |   후위 표기식 2   | Silver 3  | Java  |
-| 15649 |   N과 M(1)    | Silver 3  | Java  |
-| 1463  |    1로 만들기    | Silver 3  | Java  |
-| 11726 |   2xn 타일링    | Silver 3  | Java  |
-| 11727 |  2xn 타일링 2   | Silver 3  | Java  |
-| 1095  |  1,2,3 더하기   | Silver 3  | Java  |
-| 1003  |   피보나치 함수    | Silver 3  | Java  |
-| 2108  |     통계학      | Silver 3  | Java  |
-| 2193  |     이친수      | Silver 3  | Java  |
-| 1929  |    소수 구하기    | Silver 2  | Java  |
-| 4948  |   베르트랑 공준    | Silver 2  | Java  |
-| 17087 |    숨바꼭질 6    | Silver 2  | Java  |
-| 2004  |   조합 0의 개수   | Silver 2  | Java  |
-| 15990 | 1,2,3 더하기 5  | Silver 2  | Java  |
-| 9020  |   골드바흐의 추측   | Silver 1  | Java  |
-| 6588  |   골드바흐의 추측   | Silver 1  | Java  |
-| 11052 |   카드 구매하기    | Silver 1  | Java  |
-| 16194 |  카드 구매하기 2   | Silver 1  | Java  |
-| 10844 |   쉬운 계단 수    | Silver 1  | Java  |
+|  번호   |     문제이름     |   난이도    |  언어  |
+|:-----:|:------------:|:--------:|:----:|
+| 1181  |    단어 정렬     | Silver 5 | Java |
+| 2581  |      소수      | Silver 5 | Java |
+| 2609  | 최대공약수와 최소공배수 | Silver 5 | Java |
+| 2751  |   수 정렬하기 2   | Silver 5 | Java |
+| 2941  |  크로아티아 알파벳   | Silver 5 | Java |
+| 4673  |    셀프 넘버     | Silver 5 | Java |
+| 11653 |    소인수 분해    | Silver 5 | Java |
+| 1158  |   요세푸스 문제    | Silver 5 | Java |
+| 10989 |   수 정렬하기 3   | Silver 5 | Java |
+| 11650 |   좌표 정렬하기    | Silver 5 | Java |
+| 11651 |  좌표 정렬하기 2   | Silver 5 | Java |
+| 10814 |   나이순 정렬하기   | Silver 5 | Java |
+| 1427  |    소트인사이드    | Silver 5 | Java |
+| 1002  |      터렛      | Silver 4 | Java |
+| 1065  |      한수      | Silver 4 | Java |
+| 1978  |    소수 찾기     | Silver 4 | Java |
+| 10828 |      스택      | Silver 4 | Java |
+| 11656 |    접미사 배열    | Silver 4 | Java |
+| 1676  |  팩토리얼 0의 개수  | Silver 4 | Java |
+| 10845 |      큐       | Silver 4 | Java |
+| 11866 |  요스푸스 문제 0   | Silver 4 | Java |
+| 10773 |      제로      | Silver 4 | Java |
+| 2164  |     카드 2     | Silver 4 | Java |
+| 9012  |      괄호      | Silver 4 | Java |
+| 4949  |   균형잡힌 세상    | Silver 4 | Java |
+| 10866 |      덱       | Silver 4 | Java |
+| 10816 |   숫자 카드 2    | Silver 4 | Java |
+| 17413 |   단어 뒤집기 2   | Silver 3 | Java |
+| 10799 |     쇠막대기     | Silver 3 | Java |
+| 1874  |    스택 수열     | Silver 3 | Java |
+| 1406  |     에디터      | Silver 3 | Java |
+| 9613  |    GCD 합     | Silver 3 | Java |
+| 1935  |   후위 표기식 2   | Silver 3 | Java |
+| 15649 |   N과 M(1)    | Silver 3 | Java |
+| 1463  |    1로 만들기    | Silver 3 | Java |
+| 11726 |   2xn 타일링    | Silver 3 | Java |
+| 11727 |  2xn 타일링 2   | Silver 3 | Java |
+| 1095  |  1,2,3 더하기   | Silver 3 | Java |
+| 1003  |   피보나치 함수    | Silver 3 | Java |
+| 2108  |     통계학      | Silver 3 | Java |
+| 2193  |     이친수      | Silver 3 | Java |
+| 1929  |    소수 구하기    | Silver 2 | Java |
+| 4948  |   베르트랑 공준    | Silver 2 | Java |
+| 17087 |    숨바꼭질 6    | Silver 2 | Java |
+| 2004  |   조합 0의 개수   | Silver 2 | Java |
+| 15990 | 1,2,3 더하기 5  | Silver 2 | Java |
+| 9020  |   골드바흐의 추측   | Silver 1 | Java |
+| 6588  |   골드바흐의 추측   | Silver 1 | Java |
+| 11052 |   카드 구매하기    | Silver 1 | Java |
+| 16194 |  카드 구매하기 2   | Silver 1 | Java |
+| 10844 |   쉬운 계단 수    | Silver 1 | Java |
 </details>
 <details>
 <summary>Gold</summary>
