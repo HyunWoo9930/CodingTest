@@ -1,31 +1,33 @@
-package CodingTest.BeakJun.SolvedYet.Class2;
+package CodingTest.BeakJun.SolvedYet.Class1;
 
 import java.io.BufferedReader;
 import java.io.BufferedWriter;
 import java.io.IOException;
 import java.io.InputStreamReader;
 import java.io.OutputStreamWriter;
-import java.util.ArrayList;
-import java.util.Arrays;
-import java.util.Collections;
-import java.util.List;
 
-public class SortNum2 {
+public class ReverseWord {
 
   public static void main(String[] args) throws IOException {
     BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
     BufferedWriter bw = new BufferedWriter(new OutputStreamWriter(System.out));
-
     int n = Integer.parseInt(br.readLine());
-    List<Integer> nList = new ArrayList<>();
+    String[] strArr;
+    String str;
+    StringBuffer sb;
+    String reversedStr;
     for(int i = 0;i<n;i++) {
-      nList.add(Integer.parseInt(br.readLine()));
-    }
-    Collections.sort(nList);
-    for(int i = 0;i<nList.size();i++) {
-      bw.write(nList.get(i)+"\n");
+      str = br.readLine();
+      strArr = str.split(" ");
+      String result = "";
+      for(int j = 0;j<strArr.length;j++) {
+        sb = new StringBuffer(strArr[j]);
+        reversedStr = sb.reverse().toString();
+        result += reversedStr;
+        result += " ";
+      }
+      bw.write(result + "\n");
     }
     bw.flush();
   }
-
 }
