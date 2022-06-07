@@ -169,6 +169,7 @@
 | 1003  |   피보나치 함수    | Silver 3 | Java |
 | 2108  |     통계학      | Silver 3 | Java |
 | 2193  |     이친수      | Silver 3 | Java |
+| 1966  |    프린터 큐     | Silver 3 | Java |
 | 1929  |    소수 구하기    | Silver 2 | Java |
 | 4948  |   베르트랑 공준    | Silver 2 | Java |
 | 17087 |    숨바꼭질 6    | Silver 2 | Java |
