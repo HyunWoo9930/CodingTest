@@ -175,6 +175,8 @@
 | 17087 |    숨바꼭질 6    | Silver 2 | Java |
 | 2004  |   조합 0의 개수   | Silver 2 | Java |
 | 15990 | 1,2,3 더하기 5  | Silver 2 | Java |
+| 2805  |    나무 자르기    | Silver 2 | Java |
+| 1654  |    랜선 자르기    | Silver 2 | Java |
 | 9020  |   골드바흐의 추측   | Silver 1 | Java |
 | 6588  |   골드바흐의 추측   | Silver 1 | Java |
 | 11052 |   카드 구매하기    | Silver 1 | Java |
