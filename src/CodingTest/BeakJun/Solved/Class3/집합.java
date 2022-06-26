@@ -1,4 +1,4 @@
-package CodingTest.BeakJun.SolvedYet.Class3;
+package CodingTest.BeakJun.Solved.Class3;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
