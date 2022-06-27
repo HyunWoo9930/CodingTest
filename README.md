@@ -1,6 +1,6 @@
 # CodingTest
 
-[UPDATE] 2022.05.26
+[UPDATE] 2022.06.27
 
 [Solved.ac](https://solved.ac/profile/ohw9930)
 
