@@ -155,6 +155,7 @@
 | 4949  |   균형잡힌 세상    | Silver 4 | Java |
 | 10866 |      덱       | Silver 4 | Java |
 | 10816 |   숫자 카드 2    | Silver 4 | Java |
+| 11047 |     동전 0     | Silver 4 | Java |
 | 17413 |   단어 뒤집기 2   | Silver 3 | Java |
 | 10799 |     쇠막대기     | Silver 3 | Java |
 | 1874  |    스택 수열     | Silver 3 | Java |
