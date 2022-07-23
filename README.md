@@ -1,6 +1,6 @@
 # CodingTest
 
-[UPDATE] 2022.07.03
+[UPDATE] 2022.07.23
 
 [Solved.ac](https://solved.ac/profile/ohw9930)
 
@@ -155,6 +155,8 @@
 | 4949  |   균형잡힌 세상    | Silver 4 | Java |
 | 10866 |      덱       | Silver 4 | Java |
 | 10816 |   숫자 카드 2    | Silver 4 | Java |
+| 11047 |     동전 0     | Silver 4 | Java |
+| 11399 |     ATM      | Silver 4 | Java |
 | 17413 |   단어 뒤집기 2   | Silver 3 | Java |
 | 10799 |     쇠막대기     | Silver 3 | Java |
 | 1874  |    스택 수열     | Silver 3 | Java |
@@ -170,6 +172,8 @@
 | 2108  |     통계학      | Silver 3 | Java |
 | 2193  |     이친수      | Silver 3 | Java |
 | 1966  |    프린터 큐     | Silver 3 | Java |
+| 11659 |  구간 합 구하기 4  | Silver 3 | Java |
+| 9461  |    파도반 수열    | Silver 3 | Java |
 | 1929  |    소수 구하기    | Silver 2 | Java |
 | 4948  |   베르트랑 공준    | Silver 2 | Java |
 | 17087 |    숨바꼭질 6    | Silver 2 | Java |
